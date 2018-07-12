@@ -1,4 +1,4 @@
-# atlas-up-and-running
+# pytorch-up-and-running
 Code samples and support for the book _PyTorch: Up and Running_ published by O'Reilly Media
 
 ## Using Code Examples
